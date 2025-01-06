@@ -1,5 +1,5 @@
 import React from "react";
-import {city, username} from "/home/blackbird/Development/code/Phase-2/react-hooks-import-export-lab/src/data/user.js"
+import { city, username } from "../data/user";
 
 
 function Home() {
